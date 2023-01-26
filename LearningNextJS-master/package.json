@@ -1,0 +1,20 @@
+{
+  "name": "DotingOccasionalExams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "React": "^17.0.2",
+    "date-fns": "^2.23.0",
+    "gray-matter": "^4.0.3",
+    "next": "^11.1.0",
+    "remark": "^14.0.1",
+    "remark-html": "^14.0.0"
+  }
+}
